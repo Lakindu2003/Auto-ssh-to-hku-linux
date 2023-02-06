@@ -4,6 +4,7 @@ from time import sleep
 
 #make sure to instal pyautogui by running the below command on the terminal
 #pip install pyautogui 
+#sleep arguments might need some changes
 def x():
     press("enter")
 
